@@ -665,6 +665,10 @@ video {
   margin-bottom: 0px;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .flex {
   display: flex;
 }
@@ -771,6 +775,14 @@ video {
 
 .w-\[18\%\] {
   width: 18%;
+}
+
+.w-\[80\] {
+  width: 80;
+}
+
+.w-\[8\] {
+  width: 8;
 }
 
 .rotate-180 {
@@ -1127,6 +1139,10 @@ video {
   padding-right: 2.5rem;
 }
 
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1440,6 +1456,10 @@ video {
 
   .md\:w-\[24\] {
     width: 24;
+  }
+
+  .md\:w-\[90\%\] {
+    width: 90%;
   }
 
   .md\:px-16 {
