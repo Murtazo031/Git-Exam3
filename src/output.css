@@ -811,6 +811,10 @@ video {
   width: 900%;
 }
 
+.w-\[32\%\] {
+  width: 32%;
+}
+
 .flex-none {
   flex: none;
 }
@@ -926,6 +930,10 @@ video {
 .border-black {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity, 1));
+}
+
+.border-\[\] {
+  border-color: ;
 }
 
 .bg-\[\#03CEA4\] {
